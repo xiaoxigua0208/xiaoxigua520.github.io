@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxigua520.github.io</id>
     <title>小西瓜</title>
-    <updated>2019-05-27T12:55:10.806Z</updated>
+    <updated>2019-05-27T14:12:02.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxigua520.github.io"/>
     <link rel="self" href="https://xiaoxigua520.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://xiaoxigua520.github.io/images/avatar.png</logo>
     <icon>https://xiaoxigua520.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 小西瓜</rights>
-    <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://xiaoxigua520.github.io/post/test</id>
-        <link href="https://xiaoxigua520.github.io/post/test">
-        </link>
-        <updated>2019-05-27T12:54:41.000Z</updated>
-        <content type="html"><![CDATA[<p>test</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xiaoxigua520.github.io/post/hello-gridea</id>
