@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaoxigua.github.io</id>
+    <id>https://huzh0107.coding.me/xiaoxigua</id>
     <title>小西瓜</title>
-    <updated>2019-05-27T11:04:45.086Z</updated>
+    <updated>2019-05-27T12:17:33.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xiaoxigua.github.io"/>
-    <link rel="self" href="https://xiaoxigua.github.io/atom.xml"/>
+    <link rel="alternate" href="https://huzh0107.coding.me/xiaoxigua"/>
+    <link rel="self" href="https://huzh0107.coding.me/xiaoxigua/atom.xml"/>
     <subtitle>2019  努力追寻属于自己的光</subtitle>
-    <logo>https://xiaoxigua.github.io/images/avatar.png</logo>
-    <icon>https://xiaoxigua.github.io/favicon.ico</icon>
+    <logo>https://huzh0107.coding.me/xiaoxigua/images/avatar.png</logo>
+    <icon>https://huzh0107.coding.me/xiaoxigua/favicon.ico</icon>
     <rights>All rights reserved 2019, 小西瓜</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xiaoxigua.github.io/post/hello-gridea</id>
-        <link href="https://xiaoxigua.github.io/post/hello-gridea">
+        <id>https://huzh0107.coding.me/xiaoxigua/post/hello-gridea</id>
+        <link href="https://huzh0107.coding.me/xiaoxigua/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
